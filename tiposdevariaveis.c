@@ -8,6 +8,7 @@ float altura = 1.75;
 char letra = 'A';
 char nome[20] = "mariana" ; 
 
-
+idade = 25; 
+quantidade = 10; 
 
 }
